@@ -1,5 +1,7 @@
 ## Hello!  
 ### I'm Abhinav Nair, a 2nd-year CS student at UC Irvine.
+
+![A blue infinity symbol against a black background](blue_finity.jpg)
   
 I've always been passionate about computer science, and I'm hoping to contribute that passion to the outside world!
 
