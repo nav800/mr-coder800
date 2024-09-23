@@ -2,6 +2,9 @@
 ### I'm Abhinav Nair, a 2nd-year CS student at UC Irvine.
   
 I've always been passionate about computer science, and I'm hoping to contribute that passion to the outside world!
+
+Here's my [LinkedIn](https://www.linkedin.com/in/abhinav-nair-770519232/)  
+If you want to talk, [send me an email](mailto:abhinavishere@hotmail.com)
 <!--
 **mr-coder800/mr-coder800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
