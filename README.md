@@ -4,7 +4,7 @@
   
 I've always been passionate about computer science, and I'm hoping to contribute that passion to the outside world!
 
-...Or make a video game. We'll see.
+...Or as an avid player of video games in my spare time, I might just try my hand at making some of my own. We'll see.
 
 ![A crude drawing of a composite sword](sword.png)
 
