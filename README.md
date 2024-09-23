@@ -1,7 +1,7 @@
 ## Hello!  
 ### I'm Abhinav Nair, a 2nd-year CS student at UC Irvine.
 
-![A crude drawing of a composite sword](New Piskel (1).png)
+![A crude drawing of a composite sword](sword.png)
   
 I've always been passionate about computer science, and I'm hoping to contribute that passion to the outside world!
 
