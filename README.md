@@ -1,9 +1,12 @@
 ## Hello!  
 ### I'm Abhinav Nair, a 2nd-year CS student at UC Irvine.
 
-![A crude drawing of a composite sword](sword.png)
   
 I've always been passionate about computer science, and I'm hoping to contribute that passion to the outside world!
+
+...Or make a video game. We'll see.
+
+![A crude drawing of a composite sword](sword.png)
 
 Here's my [LinkedIn](https://www.linkedin.com/in/abhinav-nair-770519232/)  
 If you want to talk, [send me an email](mailto:abhinavishere@hotmail.com)
