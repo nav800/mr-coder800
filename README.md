@@ -1,6 +1,7 @@
 ## Hello!  
 ### I'm Abhinav Nair, a 2nd-year CS student at UC Irvine.
-
+  
+I've always been passionate about computer science, and I'm hoping to contribute that passion to the outside world!
 <!--
 **mr-coder800/mr-coder800** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
